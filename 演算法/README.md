@@ -1,2 +1,2 @@
 # 我的作業
-- [labs_1](labs_1.md)
+- [lads_1](lads_1.md)
