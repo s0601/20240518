@@ -68,4 +68,4 @@ if __name__ == "__main__":
 - Online Python Interpreter
   - [Online Python Compiler (Interpreter) - Programiz](https://www.programiz.com/python-programming/online-compiler/)
 
-![labs_1_1.png](../pice/labs_1_1.png)
+![labs_1_1.png](labs_1_1.png)
